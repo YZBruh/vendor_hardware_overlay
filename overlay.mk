@@ -217,6 +217,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-gta2xl \
 	treble-overlay-samsung-gta3xl \
 	treble-overlay-samsung-gta7litewifi \
+	treble-overlay-samsung-gta9p \
 	treble-overlay-samsung-gts7xllite \
 	treble-overlay-samsung-gts8p \
 	treble-overlay-samsung-j6 \
